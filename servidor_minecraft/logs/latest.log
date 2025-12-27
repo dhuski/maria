@@ -1,0 +1,34 @@
+[03:56:13] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[03:56:14] [main/INFO]: Loading 6 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.5
+	- skinrestorer 2.4.3+1.21.5-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+[03:56:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/maria/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:56:14] [main/INFO]: Compatibility level set to JAVA_17
+[03:56:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:56:20] [main/WARN]: fabric-api is not loaded, SkinShuffle compatibility will not be available
+[03:56:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:56:22] [main/INFO]: Loaded 1373 recipes
+[03:56:22] [main/INFO]: Loaded 1484 advancements
+[03:56:22] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[03:56:22] [Server thread/INFO]: Loading properties
+[03:56:22] [Server thread/INFO]: Default game type: SURVIVAL
+[03:56:22] [Server thread/INFO]: Generating keypair
+[03:56:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:56:23] [Server thread/INFO]: Using epoll channel type
+[03:56:23] [Server thread/INFO]: Preparing level "world"
+[03:56:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:56:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:56:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:56:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:56:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:56:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:56:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:56:26] [Server thread/INFO]: Time elapsed: 2563 ms
+[03:56:26] [Server thread/INFO]: Done (2.942s)! For help, type "help"
+[03:57:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:57:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:57:40] [Server thread/INFO]: asd<--[HERE]
